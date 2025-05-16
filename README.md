@@ -61,7 +61,7 @@ I'm a tech enthusiast focused on leveraging AI, full-stack development, automati
 ## 📬 Get In Touch
 
 📧 Email: bluesky950129@gmail.com  
-🌐 Portfolio: [www.yourwebsite.com](https://www.yourwebsite.com )
+🌐 Portfolio: https://luminous-longma-db2c24.netlify.app/
 
 ---
 
