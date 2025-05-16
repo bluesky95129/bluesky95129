@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Rudi Moore  
 **AI Full Stack Developer | Automation Specialist | Agent & CRM | VoIP Expert**
 
 🚀 Passionate about building intelligent systems, automating workflows, and integrating communication technologies to scale businesses.
